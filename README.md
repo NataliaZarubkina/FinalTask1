@@ -17,3 +17,5 @@
 3. [“Russia”, “Denmark”, “Kazan”] → []
 
 Программа доступна по ссылке: [Код](https://github.com/NataliaZarubkina/FinalTask1/blob/main/FinalTask/Program.cs)
+
+Диаграмма доступна по ссылке: [Блок-схема](https://app.diagrams.net/?libs=general;flowchart&src=about#G1XF1Ji_hCgHvtvFOz5TFyI7Hb0QyZRKWx)
